@@ -61,4 +61,8 @@ By logging daily entries, users can begin to recognize trends such as:
 
 ## Screenshots
 
-_Add screenshots here (main screen, add entry, detail view)_
+<p float="left">
+  <img src="screenshots/mainScreen.png" width="30%" />
+  <img src="screenshots/addEntry.png" width="30%" />
+  <img src="screenshots/detailView.png" width="30%" />
+</p>
